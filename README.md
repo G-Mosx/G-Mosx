@@ -36,7 +36,13 @@
 
 ---
 
-### ⚡ Quick Status
-* 🔭 **Currently working on:** Enhancing my portfolio & exploring low-level network security.
-* 🌱 **Currently learning:** Advanced C++ & system hardening on Linux.
-* ⚡ **Fun fact:** I treat breaking down an abandoned building (Urbex) the exact same way I treat debugging a messy codebase.
+### 🔬 What I'm Focused On Right Now
+* 📡 **Networking & Protocols:** Deep-diving into how packets move and how to secure network perimeters.
+* 🐧 **System Hardening:** Optimizing Linux environments and custom terminal workflows.
+* 🧩 **Problem Solving:** Tackling algorithmic challenges and building robust personal projects.
+
+---
+
+<div align="center">
+<i>"There is no patch for human stupidity, but network firewalls help." 🚀</i>
+</div>
