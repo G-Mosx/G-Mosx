@@ -15,8 +15,7 @@
 ### 💻 About Me & Passions
 * 🏛️ **Studying:** B.Sc. in Informatics & Telecommunications at the **University of Peloponnese** (2025–2030).
 * 🛡️ **Cybersecurity & IT:** Passionate about network architectures, digital security, and system administration.
-* 🤖 **Artificial Intelligence:** Exploring modern AI concepts, machine logic, and automated workflows.
-* 🔦 **Urban Exploration (Urbex) & PC Building:** Uncovering hidden physical structures, reverse-engineering spaces, and assembling high-performance hardware.
+* 🤖 **Artificial Intelligence:** Exploring modern AI concepts, machine logic
 * 🎯 **Mindset:** Treating code, hardware, and networks like complex puzzles waiting to be solved.
 
 ---
