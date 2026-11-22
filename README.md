@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm George Moscholios 👋
+# Hello there
 
 **UoP Computer Science Student · Cybersecurity & Network Enthusiast**
 
